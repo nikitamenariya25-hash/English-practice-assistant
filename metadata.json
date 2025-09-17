@@ -1,0 +1,7 @@
+{
+  "name": " English Practice Assistant",
+  "description": "An interactive assistant to help you improve your English listening, speaking, writing, vocabulary, and grammar skills in a fun and interactive way.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
